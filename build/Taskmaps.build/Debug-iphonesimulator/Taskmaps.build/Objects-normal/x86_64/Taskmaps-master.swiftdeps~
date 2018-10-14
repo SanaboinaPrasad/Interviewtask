@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "727413560e4ad4dee3dae836eb27ebef"
+build_time: [1539530183, 767912000]
+inputs:
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/ModeData.swift": [1539523409, 0]
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/PickerVC.swift": [1539530113, 0]
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/MapController.swift": [1539530138, 0]
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/CitytableViewCell.swift": [1539524504, 0]
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/ViewController.swift": [1539530046, 0]
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/AppDelegate.swift": [1539345806, 0]
+  "/Users/sriramprasad/Dev/Taskmaps/Taskmaps/CityVC.swift": [1539530183, 0]
